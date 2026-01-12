@@ -1,6 +1,5 @@
 /*
 Author: Arda Muhammed Çakır
-Author: Arda Muhammed Çakır
 This code is just for my individual practice and learning algorithms.
 */
 
