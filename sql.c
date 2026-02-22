@@ -1,3 +1,5 @@
+/*Learning SQL basics and SQLite integration with C*/
+
 #include <stdio.h>
 #include <sqlite3.h>
 
